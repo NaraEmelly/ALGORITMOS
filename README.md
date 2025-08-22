@@ -1,7 +1,7 @@
-# ALGORITMOS - PARTE 1
-Exercícios de Algoritmos do 2º período de Eng. Software 
-Aluna: Nayara Emelly P. Mendonça
-Turma: A
+## ALGORITMOS - PARTE 1
+#Exercícios de Algoritmos do 2º período de Eng. Software 
+#Aluna: Nayara Emelly P. Mendonça
+#Turma: A
 
 Professor: Gioliano 
 
