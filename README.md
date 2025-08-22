@@ -1,5 +1,8 @@
 # ALGORITMOS - PARTE 1
 Exercícios de Algoritmos do 2º período de Eng. Software 
+Aluna: Nayara Emelly P. Mendonça
+Turma: A
+
 Professor: Gioliano 
 
 questão 1: 
@@ -11,7 +14,7 @@ questão 2:
 questão 3:
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d998b8d1-ff2a-45f6-85d1-ea120c38d0da" />
 
-quetão 4:
+questão 4:
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f402ab02-c059-41b3-8ade-38ce1ffa2e1a" />
 
 
