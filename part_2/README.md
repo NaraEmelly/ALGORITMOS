@@ -1,4 +1,4 @@
-## ALGORITMOS - PARTE 1
+## ALGORITMOS - PARTE 2
 Exercícios de Algoritmos 
 
 2º período de Eng. Software 
@@ -9,17 +9,22 @@ Turma: A
 
 Professor: Gioliano 
 
-
-questão 1: 
-
-
-questão 2:
+## EXECUTADOS - TERMINAL
+q1. Cálculo de Complexidade Simples:
+![alt text](image.png)
 
 
-questão 3:
+q2. Validação de Login:
+![alt text](image-1.png)
 
 
-questão 4:
+q3. Estatísticas de Notas:
+![alt text](image-2.png)
+
+
+q4. Busca Linear:
+![alt text](image-3.png)
+
 
 
 
